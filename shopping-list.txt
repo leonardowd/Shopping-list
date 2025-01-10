@@ -1,0 +1,2 @@
+Item: rice - Quantity: 2.0
+Item: sugar - Quantity: 1.0
