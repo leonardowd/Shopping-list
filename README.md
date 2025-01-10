@@ -4,7 +4,9 @@ A simple Java terminal program that allows you to create a shopping list and sav
 ## Goal
 This program was made for practice file.txt manipulating.
 
-## Video demo:
+## Demo:
+
+
 
 ## How to use:
 
