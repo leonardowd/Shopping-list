@@ -1,2 +1,2 @@
-# simple-CRUD-terminal
-A simple CRUD program for Java's terminal that stores data in a TXT file.
+# Shopping List
+A simple Java terminal program that allows you to create a shopping list and save it to a TXT file.
